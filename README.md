@@ -2,6 +2,8 @@
 ##### Automates Khan Academy quizzes by brute forcing questions (30<sec per quiz). Can be used for farming energy points or in my case automate boring school requirements...
 
 - **Usage**
+   - Of course with any python project you'll need to install the necessary packages etc
+   - With the web driver for your browser in the current directory just run the script (I put the chrome one in the git repo but if you dont use chrome replace it https://selenium.dev/downloads/#client-drivers)
    - Change username and password credentials
    - Change link to the quiz you want to automate
    
