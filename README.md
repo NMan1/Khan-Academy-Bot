@@ -3,7 +3,7 @@
 
 - **Usage**
    - Of course with any python project you'll need to install the necessary packages etc
-   - With the web driver for your browser in the current directory just run the script (I put the chrome one in the git repo but if you dont use chrome replace it https://selenium.dev/downloads/#client-drivers)
+   - Replace direcotry path to chromedriver (I put the chrome one in the git repo but if you dont use chrome replace it https://selenium.dev/downloads/#client-drivers)
    - Change username and password credentials
    - Change link to the quiz you want to automate
    
