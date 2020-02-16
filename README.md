@@ -1,5 +1,5 @@
 # Khan-Academy-Bot
-##### Automates Khan Academy quizzes by brute forcing questions (30<sec per quiz). Can be used for farming energy points or in my case automate boring school requirements...
+##### Automates Khan Academy quizzes by brute forcing questions (30<sec per quiz). Can be used for farming energy points or in my case automating boring school requirements...
 
 - **Usage**
    - Of course with any python project you'll need to install the necessary packages etc
